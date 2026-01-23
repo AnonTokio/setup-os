@@ -1,53 +1,70 @@
 app:
-网易云音乐
-滴答清单
-福昕阅读器
+Affine
+BetterGI
+Brisk
+discord
+epic
+everything
+FileZilla
+flclash
+Chrome
+islide tools
+jetbrains toolbox
+memreduct
+msi afterbruner
+notion
+obs studio
+potplayer
+powershell7
 QQ
 微信
-腾讯会议
-钉钉
+steam
+uTools
+uu 加速器
+zotero
+爱奇艺
 百度网盘
-ACG
-winmine
-Chrome
-FileZilla
-PlayMemories
+钉钉
+飞书
+火绒
+夸克网盘
+腾讯会议
+网易云音乐
+向日葵
+元宝
+福昕阅读器
+移动云盘
+图吧工具箱
 notepad++
 
 drive:
-NVIDIA
+NVIDIA app
 obinskit
 logic g hub
+华硕管家
+armoury crate(华硕笔记本管家)
 
-tools:
-cloc
-uTools
-everyting
-AxMath
-Excel2LaTeX
-mathpix
+developer:
+dbeaver
+cuda
+cudnn
+matlab
+mathematica
+miniconda
+.net
+nushell
+python
+rust
 Terminal
-powershell7
-cpu-z
-DiskGenius
-ventoy
-winhex
-rufus - u盘制作工具
-runcat - github
-wsl-notify-send
-
+visual studio
+vscode
+wireshark
+yaak
 WSL
 VMware Workstation
 
-code:
-vscode
-MATLAB
-DevCpp
-git
-miniconda
-python
-mingw
-cmake
-xmake
-rust?
-
+游戏:
+星穹铁道
+鸣潮
+原神
+重返未来 1999
