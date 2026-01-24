@@ -8,6 +8,7 @@ clangd
 cmake
 cwrsync
 dark
+dbeaver
 deno
 ditto
 fastfetch
@@ -22,12 +23,12 @@ llvm
 magic-wormhole
 miktex
 mingw
-mise
 motrix
 nasm
 openssl
 perl
 picgo
+postgresql
 restic
 scoop-search
 sudo
@@ -35,3 +36,5 @@ wabt
 wget
 xmake
 zig
+wireshark
+yaak

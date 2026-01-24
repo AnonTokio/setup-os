@@ -34,7 +34,6 @@ zotero
 元宝
 福昕阅读器
 移动云盘
-图吧工具箱
 notepad++
 
 drive:
@@ -58,8 +57,6 @@ rust
 Terminal
 visual studio
 vscode
-wireshark
-yaak
 WSL
 VMware Workstation
 
