@@ -5,8 +5,6 @@
 	email = wangzhen0518@126.com
 [url "ssh://git@github.com/"]
 	insteadOf = https://github.com/
-[credential "http://211.86.152.198:8080"]
-	provider = gitlab
 [credential "https://gitee.com"]
 	provider = generic
 [credential "https://latex.ustc.edu.cn"]
