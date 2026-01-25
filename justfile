@@ -135,6 +135,8 @@ config-nodejs: install-nodejs
     nvm install lts
     nvm use lts
     corepack enable pnpm
+    npm config -g set registry https://mirrors.cloud.tencent.com/npm/
+    pnpm config -g set registry https://mirrors.cloud.tencent.com/npm/
 
 nodejs: install-nodejs config-nodejs
 
