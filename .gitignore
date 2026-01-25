@@ -1,3 +1,7 @@
-.ssh
+.venv/
+.ssh/
+bin/
+installer/
+Portable/
 
 secret*
