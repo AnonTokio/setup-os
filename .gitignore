@@ -1,7 +1,9 @@
 .venv/
 .ssh/
 bin/
+tmp/
 installer/
 Portable/
 
 secret*
+.env
