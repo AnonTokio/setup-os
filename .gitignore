@@ -7,3 +7,5 @@ Portable/
 
 secret*
 .env
+
+*.code-workspace

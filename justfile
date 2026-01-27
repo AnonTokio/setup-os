@@ -137,6 +137,8 @@ config-nodejs: install-nodejs
     corepack enable pnpm
     npm config -g set registry https://mirrors.cloud.tencent.com/npm/
     pnpm config -g set registry https://mirrors.cloud.tencent.com/npm/
+    mkdir D:/Software/Developer
+    pnpm config set store-dir D:/Software/Developer/.pnpm-store
 
 nodejs: install-nodejs config-nodejs
 
