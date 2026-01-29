@@ -47,6 +47,7 @@ hold = [
     "deno",
     "go",
     "llvm",
+    "nu",
     "openssl",
     "postgresql",
     "wireshark",

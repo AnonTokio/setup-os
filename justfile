@@ -198,7 +198,16 @@ install-nushell: scoop
 
 config-nushell: install-nushell
     cp ./config/nushell/*.nu $nu.data-dir
+    cp -r ./config/nushell/nu_scripts $nu.data-dir
     cp ./config/nushell/nushell.png ($nu.current-exe | path dirname)
+    source $nu.env-path
     source $nu.config-path
+    plugin add nu_plugin_example.exe
+    plugin add nu_plugin_formats.exe
+    plugin add nu_plugin_gstat.exe
+    plugin add nu_plugin_inc.exe
+    plugin add nu_plugin_polars.exe
+    plugin add nu_plugin_query.exe
+    plugin add nu_plugin_stress_internals.exe
 
 nushell: install-nushell config-nushell
