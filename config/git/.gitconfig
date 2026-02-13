@@ -1,8 +1,8 @@
 [credential]
 	helper = manager
 [user]
-	name = wangzhen0518
-	email = wangzhen0518@126.com
+	name = AnonTokio
+	email = anontokio@163.com
 [url "ssh://git@github.com/"]
 	insteadOf = https://github.com/
 [credential "https://gitee.com"]
